@@ -1,5 +1,16 @@
-EXEC silver.load_silver;
+/*
+Stored procedure to load silver layer from bronze layer
+Script purpose :
+	this stored procedure performs ETl process to populate silver schema from bronze schema
+Actions:
+	truncts silver tables
+	loads tranformed and cleansed data from bronze to silver tables
 
+*/
+Usage Example
+
+EXEC silver.load_silver;
+===============================================================================================================
 CREATE OR ALTER PROCEDURE silver.load_silver AS
 BEGIN
 DECLARE @start_time DATETIME, @end_time DATETIME, @start_time_batch DATETIME,@end_time_batch DATETIME;
