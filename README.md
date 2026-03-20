@@ -7,3 +7,5 @@ Data Processing: Apache Spark, PySpark
 Data Modeling: Star Schema (Fact & Dimension Tables)
 Analytics: SQL (Spark SQL / Databricks SQL)
 Workflow Environment: Databricks Notebook
+
+![pipeline_diag](https://github.com/user-attachments/assets/952964e3-0d41-4d0a-a06d-9d74b700d08e)
