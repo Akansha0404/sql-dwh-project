@@ -9,3 +9,4 @@ Analytics: SQL (Spark SQL / Databricks SQL)
 Workflow Environment: Databricks Notebook
 
 ![pipeline_diag](https://github.com/user-attachments/assets/952964e3-0d41-4d0a-a06d-9d74b700d08e)
+![integration model](https://github.com/user-attachments/assets/d8e77f22-0b64-4246-a45d-2bfd595033f2)
